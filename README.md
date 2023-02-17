@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Welcome to my GitHub profile!
 
-<!--
-**glooobal/glooobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Node.js developer who enjoys building applications using Typescript and Javascript.
 
-Here are some ideas to get you started:
+## 📊 Statistics
+- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=glooobal&show_icons=true&theme=dark)](https://github.com/glooobal)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glooobal&layout=compact&theme=dark)](https://github.com/glooobal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Recent Projects
+
+- [Leaguecord - Discord LoL Assistant](https://github.com/glooobal/leagecord)
+
+## 🤝 Let's Connect
+If you have any questions or just want to say hi, feel free to contact me via e-mail (jakubgorzny@icloud.com).
+
+Thank you for stopping by! 😄
