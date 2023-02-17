@@ -3,8 +3,8 @@
 I am a Node.js developer who enjoys building applications using Typescript and Javascript.
 
 ## 📊 Statistics
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=glooobal&show_icons=true&theme=dark)](https://github.com/glooobal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glooobal&layout=compact&theme=dark)](https://github.com/glooobal)
+- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=glooobal&show_icons=true&theme=dark)](https://github.com/glooobal)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glooobal&layout=compact&theme=dark)](https://github.com/glooobal)
 
 ## 🚀 Recent Projects
 
